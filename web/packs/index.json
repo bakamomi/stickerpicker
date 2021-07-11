@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "main.json"
+  ],
+  "homeserver_url": "https://tchncs.de"
+}
