@@ -1,6 +1,8 @@
 {
   "packs": [
-    "main-128.json"
+    "main-128.json",
+    "Menhera-160.json",
+    "Various-160.json"
   ],
   "homeserver_url": "https://tchncs.de"
 }
