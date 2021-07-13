@@ -1,7 +1,8 @@
 {
   "packs": [
     "Menhera-150.json",
-    "Main-150.json"
+    "Main-150.json",
+    "Main-144.json"
   ],
   "homeserver_url": "https://tchncs.de"
 }
