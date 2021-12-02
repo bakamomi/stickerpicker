@@ -3,7 +3,8 @@
     "main-144.json",
     "Menhera-144.json",
     "ChibiMenhera-144.json",
-    "MoreMenhera-144.json"
+    "MoreMenhera-144.json",
+    "test.json"
   ],
   "homeserver_url": "https://tchncs.de"
 }
