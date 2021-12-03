@@ -1,7 +1,11 @@
 {
   "packs": [
+    "Misc-144.json",
     "Question-144.json",
-    "Menhera-144.json"
+    "Menhera-144.json",
+    "ChibiMenhera-144.json",
+    "WinterMenhera-144.json",
+    "test-160.json"
   ],
   "homeserver_url": "https://tchncs.de"
 }
