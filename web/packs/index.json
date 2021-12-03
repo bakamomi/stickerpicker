@@ -1,11 +1,24 @@
 {
   "packs": [
     "Misc-144.json",
+    "Cat-144.json",
+    "Sad-144.json",
+    "Happy-144.json",
     "Question-144.json",
-    "Menhera-144.json",
+    "OK-144.json",
+    "ThumbsUp-144.json",
+    "EnglishMenhera-144.json",
     "ChibiMenhera-144.json",
+    "Menhera-144.json",
     "WinterMenhera-144.json",
-    "test-160.json"
+    "HorizontalMenhera-144.json",
+    "EvilMenhera-144.json",
+    "SleepyMenhera-144.json",
+    "FallMenhera-144.json",
+    "MenheraInLove-144.json",
+    "NekoMenhera-144.json",
+    "SummerMenhera-144.json",
+    "FoodMenhera-144.json"
   ],
   "homeserver_url": "https://tchncs.de"
 }
