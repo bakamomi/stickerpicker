@@ -1,6 +1,7 @@
 {
   "packs": [
-    "Question-144.json"
+    "Question-144.json",
+    "Menhera-144.json"
   ],
   "homeserver_url": "https://tchncs.de"
 }
